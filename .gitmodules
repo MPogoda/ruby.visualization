@@ -1,0 +1,3 @@
+[submodule "ruby.tree"]
+	path = ruby.tree
+	url = git://github.com/MPogoda/ruby.tree.git
