@@ -1,6 +1,6 @@
 require 'Qt'
 require 'mform'
-require 'ruby.tree/print_tree'
+require 'print_tree'
 
 class StartQt4 < Qt::Dialog
   slots 'new()'
