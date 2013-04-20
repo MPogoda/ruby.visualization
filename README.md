@@ -7,7 +7,6 @@ Simple visualization of red-black-tree.
 Requirements
 ============
 
-Ruby (>= 1.8.7)
-Qt4 bindings
-graphviz bindings
-
+  * Ruby (>= 1.8.7)
+  * Qt4 bindings
+  * graphviz bindings
